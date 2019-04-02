@@ -61,7 +61,7 @@
 
 3、安卓APP，主要是生成二维码和接收付款通知
 
-测试链接：http://upay.yixinu.com/  ,  设备不一定在线，测试前可以加我微信，提醒我上线设备测试，我的微信号(xianglou)。
+测试链接：upay.yixinu.com/home/start/?money=0.01  ,  设备不一定在线，测试前可以加我微信，提醒我上线设备测试，我的微信号(xianglou)。
 
 
 
