@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">upay</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="xposed_description">微X个人ZHIFU模块</string>
+</resources>
